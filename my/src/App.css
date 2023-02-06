@@ -1,7 +1,12 @@
-.main-navbar{
-  background-color:#6B61E6;
 
+.main,
+.main2{
+  position: relative;
 }
-.main-navbar-text{
-  color: white;
+.position{
+
+  position: absolute;
+  left: 400px;
+  bottom: 100px;
+  z-index: 99;
 }
